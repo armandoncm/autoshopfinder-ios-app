@@ -29,9 +29,22 @@
 		AC092C322F8701F900139D99 /* AutoShopFinderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutoShopFinderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		AC092C452F8701F900139D99 /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				domain,
+			);
+			target = AC092C1A2F8701F900139D99 /* AutoShopFinder */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		AC092C1D2F8701F900139D99 /* AutoShopFinder */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				AC092C452F8701F900139D99 /* PBXFileSystemSynchronizedBuildFileExceptionSet */,
+			);
 			path = AutoShopFinder;
 			sourceTree = "<group>";
 		};
