@@ -1,0 +1,3 @@
+[submodule "AutoShopFinder/domain"]
+	path = AutoShopFinder/domain
+	url = https://github.com/armandoncm/AutoShopFinder-Domain.git
